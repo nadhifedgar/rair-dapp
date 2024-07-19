@@ -45,4 +45,5 @@ Point the browser at the RAIRfrontend service (localhost:8088)
 ## Complete the MVP Test Plan
 
 We've compiled a list of post-installation checks [here](https://docs.rairprotocol.org/rairprotocol/installation-and-testing/getting-started/rairlite-localhost/mvp-test-plan)
-
+@nadhif_edgar
+@10thmuharram
